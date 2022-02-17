@@ -1,0 +1,29 @@
+Se quiere implementar un metodo donde me genere numeros pares si el dato de entrada
+es un numero primo y se generen numeros impares si el dato de entrada no es numero primo
+
+-- input  11 --- Es primo
+   1 3 5 7 9 11
+
+-- input 21 --- No es primo
+   2 4 6 .......... 20
+
+-- input 8  --- No es primo
+   2 4 6 8
+
+-- Exception ...
+
+Generador
+
+getNumberValues(int input){
+   logica
+   esPrimo()
+   logica
+   return ()
+}
+
+
+PrimoUtil()
+
+  esPrimo(n){
+     return false;
+  }
